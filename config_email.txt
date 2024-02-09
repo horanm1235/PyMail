@@ -1,0 +1,13 @@
+[Email]
+sender_email = YourEmail@udel.edu
+sender_password = ExamplePassword
+recipient_emails = example2@udel.edu, example3@gmail.com, example4@udel.edu
+cc_emails = example5@udel.edu, example6@gmail.com
+bcc_emails = example7@udel.edu, example8@gmail.com
+
+[Message]
+subject = University of Delaware - College of Engineering
+body_file = body_email.txt
+
+[Attachments]
+attachment_paths = C:/Users/mhora/Downloads/SomeDocument.pdf, C:/Users/mhora/OneDrive/Pictures/Screenshots/SomeImage.jpg
